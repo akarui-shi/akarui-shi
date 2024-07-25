@@ -1,18 +1,18 @@
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/></p>
 <p align="center">
 
-<h1 align="center">Привет всем <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :technologist: &nbsp;Обо мне :
 
-Я Java разработчик из России
+Я Java-разработчик
 
 - 🔭 Работаю в качестве Software Engineer, занимаюсь разработкой и поддержкой веб-приложений.
 - 🌱 Изучаю новые технологии и подходы в разработке.
 - ⚡ В свободное время решаю задачи на LeetCode и читаю технические статьи.
-- 📫 Как связаться со мной: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ваш_профиль-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ваш_профиль)
+- 📫 Как связаться со мной: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-akarui_shi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akarui_shi), [![Gmail Badge](https://img.shields.io/badge/Email-mmar1yakucherova-blue?style=flat&logo=Gmail&logoColor=white)](mailto:mmar1yakucherova@yandex.ru)
 
 ---
 
