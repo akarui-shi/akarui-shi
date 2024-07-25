@@ -41,6 +41,7 @@
 
 ### 🔥 &nbsp; Моя статистика :
 
+<p>
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=akarui-shi&theme=dark&background=000000" width="600" />
 </div>
@@ -48,3 +49,4 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarui-shi&layout=compact&theme=vision-friendly-dark" width="600" />
 </div>
+<p>
