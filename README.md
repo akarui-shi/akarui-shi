@@ -1,59 +1,51 @@
-# Привет! 👋 Меня зовут [Ваше Имя]
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ваш_профиль"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ваш_профиль" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ваш_профиль&style=flat-square&color=blue" alt=""></p>
 
-Добро пожаловать в мой профиль на GitHub! Я Java-разработчик с увлечением к созданию эффективных и масштабируемых решений.
+<h1 align="center">Привет всем <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-![Java Developer](https://example.com/java-developer-image.jpg)
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-## 🛠️ Мои навыки
+### :technologist: &nbsp;Обо мне :
 
-- **Языки программирования:** Java, Kotlin, Groovy
-- **Фреймворки и библиотеки:** Spring, Hibernate, Apache Kafka
-- **Инструменты:** Git, Maven, Gradle, Docker, Jenkins
-- **Базы данных:** MySQL, PostgreSQL, MongoDB
+Я разработчик Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-![Skills](https://example.com/skills-image.jpg)
+- 🔭 Работаю в качестве Software Engineer, занимаюсь разработкой и поддержкой веб-приложений.
+- 🌱 Изучаю новые технологии и подходы в разработке.
+- ⚡ В свободное время решаю задачи на LeetCode и читаю технические статьи.
+- 📫 Как связаться со мной: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ваш_профиль-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ваш_профиль)
 
-## 📈 Статистика GitHub
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваше_имя&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя&layout=compact&theme=radical)
+### 🛠 &nbsp;Языки и инструменты :
 
-## 🔧 Проекты
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+</p>
 
-### Проект 1: [Название проекта](https://github.com/ваше_имя/проект1)
-Описание проекта и его особенности.
+---
 
-![Project 1](https://example.com/project1-image.jpg)
+### 🔥 &nbsp; Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_профиль&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Проект 2: [Название проекта](https://github.com/ваше_имя/проект2)
-Описание проекта и его особенности.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_профиль&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Project 2](https://example.com/project2-image.jpg)
+---
 
-## 📫 Контакты
-
-- Email: [ваш_email@example.com](mailto:ваш_email@example.com)
-- LinkedIn: [ваш_профиль](https://www.linkedin.com/in/ваш_профиль)
-- Twitter: [@ваш_ник](https://twitter.com/ваш_ник)
-
-![Contact Me](https://example.com/contact-me-image.jpg)
-
-## 🎯 Мои цели
-
-- Разработка высоконагруженных систем
-- Изучение новых технологий и подходов
-- Участие в open-source проектах
-
-![Goals](https://example.com/goals-image.jpg)
-
-## 🌱 Постоянное развитие
-
-Я постоянно стремлюсь к улучшению своих навыков и знаний. Вот некоторые из направлений, над которыми я сейчас работаю:
-
-- Микросервисная архитектура
-- Cloud-native разработки
-- Автоматизация CI/CD процессов
-
-![Learning](https://example.com/learning-image.jpg)
-
-Спасибо, что заглянули на мой профиль! Надеюсь, вам понравятся мои проекты и достижения.
+### ✍️ Блог посты :
+- [Как создавать REST API с помощью Java и Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+- [Как реализовать мемоизацию в React для улучшения производительности](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
+- [Как создать впечатляющее README профиля на GitHub](https://www.sitepoint.com/github-profile-readme/)
