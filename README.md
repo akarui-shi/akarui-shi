@@ -1,11 +1,5 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ваш_профиль"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/ваш_профиль" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ваш_профиль&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Привет всем <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -13,7 +7,7 @@
 
 ### :technologist: &nbsp;Обо мне :
 
-Я разработчик Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я Java разработчик из России
 
 - 🔭 Работаю в качестве Software Engineer, занимаюсь разработкой и поддержкой веб-приложений.
 - 🌱 Изучаю новые технологии и подходы в разработке.
