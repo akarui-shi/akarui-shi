@@ -39,13 +39,6 @@
 ---
 
 ### 🔥 &nbsp; Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_профиль&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarui-shi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_профиль&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Блог посты :
-- [Как создавать REST API с помощью Java и Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [Как реализовать мемоизацию в React для улучшения производительности](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [Как создать впечатляющее README профиля на GitHub](https://www.sitepoint.com/github-profile-readme/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarui-shi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
