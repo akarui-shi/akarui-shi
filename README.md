@@ -1,22 +1,11 @@
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/></p>
-<p align="center">
 
 <h1 align="center">Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-
-
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/></p>
-<p align="center">
-<h1 align="center">Привет всем! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
-
-
-
 ### :technologist: &nbsp;Обо мне :
 
-Я Java-разработчик
+Я Java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/></p>
 
 - 🔭 Работаю в качестве Software Engineer, занимаюсь разработкой и поддержкой веб-приложений.
 - 🌱 Изучаю новые технологии и подходы в разработке.
